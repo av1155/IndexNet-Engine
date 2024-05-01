@@ -117,7 +117,7 @@ These outputs validate the effectiveness of the IndexNet-Engine in processing an
 
 #### **SIMPLE OUTPUT**:
 
-    -   `Rank.java`:
+-   `Rank.java`:
 
     ```
     map from URL to page index
@@ -161,7 +161,7 @@ These outputs validate the effectiveness of the IndexNet-Engine in processing an
     edu.miami.cs.www/home/vjm/csc220/google/little.html[19, 0, 8, 11, 7, 3, 20, 14]1.0278877429002757
     ```
 
-    -   `Search.java`:
+-   `Search.java`:
 
     ```
     map from URL to page index
@@ -191,7 +191,7 @@ These outputs validate the effectiveness of the IndexNet-Engine in processing an
 
 #### **COMPLEX OUTPUT**:
 
-    `Rank.java`:
+-   `Rank.java`:
 
     ```
     map from URL to page index
@@ -514,7 +514,7 @@ These outputs validate the effectiveness of the IndexNet-Engine in processing an
     edu.miami.cs.www/home/vjm/csc220/google2/99.html[]1.1568644446299041
     ```
 
-    `Search.java`:
+-   `Search.java`:
 
     -   GUI OUTPUT:
 
