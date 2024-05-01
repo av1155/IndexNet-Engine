@@ -38,7 +38,6 @@ Overall, IndexNet-Engine is not just a testament to solid software engineering p
 -   **`Rank.java`**: Utilizes `NotGPT.java` to perform ranking of indexed pages based on various criteria such as relevance to search queries. This class demonstrates the application of sorting algorithms and heuristics in search engine ranking.
 -   **`Search.java`**: Works closely with `NotGPT.java` to handle search queries from users, showcasing effective use of data retrieval methods and search algorithms to fetch relevant results.
 -   **`SearchEngine.java`**: Interface that defines the blueprint for search engine operations, ensuring compliance and standard functionality in classes like `NotGPT.java`.
--   **`Main.java`**: The entry point of the application, which orchestrates the flow between user inputs, browser simulation, data collection, and response generation.
 
 ### Supportive Classes and Packages:
 
